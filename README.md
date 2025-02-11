@@ -10,4 +10,4 @@ Figure out how to message what exactly has changed when sending out the message.
 Figure out how to add a web skin for the app? So people can enter their email/phone number and select the water(s) they want to monitor. 
 
 Pipe dream: 
-Include info on fishing conditions (based off weather, moon etc) info how best bait for the fish that is stocked. Info on fishing laws. 
+Include info on fishing conditions (based off weather, moon etc) info how best bait for the fish that is stocked. Info on fishing laws.. 
